@@ -1,0 +1,4 @@
+1	Simi	Wife	1963-06-12	Housewife
+2	Gunnu	Mother	1933-05-13	Housewife
+3	Shippi	Mother	1989-03-12	Govt. Servive
+4	Avu	Daughter	2012-01-01	Schooling

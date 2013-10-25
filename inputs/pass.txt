@@ -1,0 +1,4 @@
+1	2013-01-01	2018-01-01	Applied	20	ECNR	Blue
+2	2011-02-02	2021-02-02	Verified	20	ECR	Red
+3	2012-03-03	2022-03-03	Dispatched	40	ECR	Blue
+4	2009-04-04	2014-04-04	Dispatched	40	ECNR	Blue	
